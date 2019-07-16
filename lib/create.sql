@@ -9,8 +9,8 @@ CREATE TABLE projects (
 
 CREATE TABLE users (
  id INTEGER PRIMARY KEY,
- title TEXT,
- category TEXT,
+ name TEXT,
+ age INTEGER,
  funding_goal TEXT,
  start_date TEXT,
  end_date TEXT
