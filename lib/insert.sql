@@ -3,4 +3,7 @@ INSERT INTO users (
  age
 )
 
-VALUES ( "felipe", 22 ), ( "felipe", 22 ),  ( "felipe", 22 ), ( "felipe", 22 ), ( "felipe", 22 ), ( "felipe", 22 ),  ( "felipe", 22 ), ( "felipe", 22 ), ( "felipe", 22 ), ( "felipe", 22 ),  ( "felipe", 22 ), ( "felipe", 22 ), ( "felipe", 22 ), ( "felipe", 22 ),  ( "felipe", 22 ), ( "felipe", 22 ), ( "felipe", 22 ), ( "felipe", 22 ),  ( "felipe", 22 ), ( "felipe", 22 );       
+VALUES ( "felipe", 22 ), ( "felipe", 22 ),  ( "felipe", 22 ), ( "felipe", 22 ), ( "felipe", 22 ), ( "felipe", 22 ),  ( "felipe", 22 ), ( "felipe", 22 ), ( "felipe", 22 ), ( "felipe", 22 ),  ( "felipe", 22 ), ( "felipe", 22 ), ( "felipe", 22 ), ( "felipe", 22 ),  ( "felipe", 22 ), ( "felipe", 22 ), ( "felipe", 22 ), ( "felipe", 22 ),  ( "felipe", 22 ), ( "felipe", 22 ); 
+
+
+INSERT INTO projects
