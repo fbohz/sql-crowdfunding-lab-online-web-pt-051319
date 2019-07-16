@@ -11,6 +11,12 @@ CREATE TABLE users (
  id INTEGER PRIMARY KEY,
  name TEXT,
  age INTEGER,
+);
+
+CREATE TABLE users (
+ id INTEGER PRIMARY KEY,
+ name TEXT,
+ age INTEGER,
  funding_goal TEXT,
  start_date TEXT,
  end_date TEXT
