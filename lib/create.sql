@@ -13,11 +13,10 @@ CREATE TABLE users (
  age INTEGER,
 );
 
-CREATE TABLE users (
+CREATE TABLE pledges (
  id INTEGER PRIMARY KEY,
  name TEXT,
- age INTEGER,
- funding_goal TEXT,
- start_date TEXT,
- end_date TEXT
+ amount INTEGER,
+ user_id INTEGER,
+ project_id INTEGER
 );
