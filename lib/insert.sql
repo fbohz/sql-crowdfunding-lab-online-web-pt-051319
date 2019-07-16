@@ -1,5 +1,6 @@
 INSERT INTO users (
- 
+ name,
+ age
 
 )
 
