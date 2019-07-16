@@ -14,3 +14,11 @@ INSERT INTO projects (
 
 VALUES ("pipe", "environment", 66552), ("pipe", "environment", 66552), ("pipe", "environment", 66552), ("pipe", "environment", 66552), ("pipe", "environment", 66552), ("pipe", "environment", 66552), ("pipe", "environment", 66552), ("pipe", "environment", 66552), ("pipe", "environment", 66552), ("pipe", "environment", 66552); 
 
+
+INSERT INTO pledges (
+ name,
+ amount
+)
+
+VALUES ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564), ("moco", 4564);
+
