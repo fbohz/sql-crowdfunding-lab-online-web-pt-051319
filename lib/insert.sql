@@ -7,5 +7,4 @@ VALUES
   (
    "felipe",
    22
-  
-  )
+  ), 
