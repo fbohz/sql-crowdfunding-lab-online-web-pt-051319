@@ -5,6 +5,7 @@ INSERT INTO users (
 
 VALUES
   (
-   
+   "felipe",
+   22
   
   )
